@@ -1,0 +1,6 @@
+{
+  "name": "Citizen Gambia",
+  "description": "Civic complaints reporting and tracking platform for citizens of The Gambia. Report issues, track progress, and communicate with public institutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
